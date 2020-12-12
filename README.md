@@ -6,3 +6,6 @@ Testy w tym repozytorium:
 - API smoke test dla logowania i wylogowania
 - test API
 - Raport z testow
+- Notatka powdrozeniowa
+- Oprogramowanie wdrozone
+lalalalalal
